@@ -36,9 +36,7 @@
 
 
 class ArrayUtils {
-    //Bruteforce approach to find second smallest and second largest element in an array
-    //Time complexity: O(nlogn) due to sorting the array
-    //Space complexity: O(1) as we are not using any extra space
+ 
     public static void getElements(int[] arr, int nums) {
         if(nums == 0 || nums == 1) {
             System.out.println(-1);
