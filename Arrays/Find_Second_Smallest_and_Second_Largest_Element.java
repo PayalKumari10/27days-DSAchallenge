@@ -140,3 +140,10 @@ class ArrayUtils {
         System.out.println("Second largest is: " + sL);
     }
 }
+
+
+
+
+// ******* Output ******
+// Second smallest is: 2
+// Second largest is: 6
