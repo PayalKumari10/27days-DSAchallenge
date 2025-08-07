@@ -1,10 +1,10 @@
 ---
-title: "📅Day-10 Striver’s SDE Sheet |  Arrays Part 4 | Longest Consecutive Sequence, Largest Subarray with K sum."
+title: "📅Day-11 Striver’s SDE Sheet |  Arrays Part 4 | Longest Consecutive Sequence, Largest Subarray with K sum."
 seoTitle: "SDE Sheet Day 10: Advanced Array Challenges"
 seoDescription: "Discover optimal solutions for "Longest Consecutive Sequence" and "Largest Subarray with K sum" using Striver's SDE in this insightful DSA journey"
 datePublished: Thu Aug 07 2025 14:02:14 GMT+0000 (Coordinated Universal Time)
 cuid: cme1guoit000902ji4xp6e6j6
-slug: day-10-strivers-sde-sheet-arrays-part-4-longest-consecutive-sequence-largest-subarray-with-k-sum
+slug: day-11-strivers-sde-sheet-arrays-part-4-longest-consecutive-sequence-largest-subarray-with-k-sum
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754567587705/5119fde4-06fe-4571-b480-f3ae7bf9d2e6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754574922453/acbc2e81-820a-43ff-9a1e-f0029073418c.png
 tags: code, java, technology, coding, hashnode, dsa, coding-challenge, technical-writing-1, coding-journey, dsainjava, dsa-series, striver-dsa-sheet, striversdesheet, payalkumari11, dsawithpayal
