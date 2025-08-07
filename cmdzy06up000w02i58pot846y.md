@@ -1,10 +1,10 @@
 ---
-title: "📅Day-9 Striver’s SDE Sheet |  Arrays Part 4 | Two Sum ,  4Sum."
+title: "📅Day-10 Striver’s SDE Sheet |  Arrays Part 4 | Two Sum ,  4Sum."
 seoTitle: "Two Sum & 4Sum: Striver’s SDE Sheet Day 9"
 seoDescription: "Join my 27-day DSA journey with Striver's SDE Sheet! Day 10: Learn Two Sum and 4Sum strategies for coding interviews"
 datePublished: Wed Aug 06 2025 12:26:52 GMT+0000 (Coordinated Universal Time)
 cuid: cmdzy06up000w02i58pot846y
-slug: day-9-strivers-sde-sheet-arrays-part-4-two-sum-4sum
+slug: day-10-strivers-sde-sheet-arrays-part-4-two-sum-4sum
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754478928949/b13a250a-5c54-4d9e-9064-602ca3dfc2a3.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754483185405/1ff73ae6-2ab4-4753-9ceb-1bf4ce214677.png
 tags: code, java, technology, coding, hashnode, dsa, coding-challenge, codenewbies, coding-journey, dsainjava, striver-dsa-sheet, striversa2zdsa, striversdesheet, payalkumari11, dsawithpayal
