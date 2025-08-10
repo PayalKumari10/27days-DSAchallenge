@@ -1,5 +1,5 @@
 ---
-title: "📅Day-12 Striver’s SDE Sheet | Arrays Part 4 | Count number of subarrays with given xor K , Longest Substring without repeat."
+title: "📅Day-12 Striver’s SDE Sheet | Arrays Part 4 | Count number of subarrays with given xor K, Longest Substring without repeat."
 seoTitle: "Day 12: XOR Subarrays & Longest Substring"
 seoDescription: "Explore the optimal ways to count subarrays with XOR k and find the longest substring without repeats. Join a 27-day DSA journey!"
 datePublished: Fri Aug 08 2025 17:04:53 GMT+0000 (Coordinated Universal Time)
