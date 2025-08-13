@@ -22,6 +22,8 @@ This blog series is for **anyone preparing for coding interviews** — whether y
 
 ### 1️⃣ **Merge two sorted Linked Lists**
 
+### 🔸 Problem Statement:
+
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists into one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
@@ -233,6 +235,8 @@ Yeh approach **fatafat** kaam karta hai, bilkul efficient hai, aur interviews me
 ---
 
 ### 2️⃣ **Remove Nth Node From End of List**
+
+### 🔸 Problem Statement:
 
 Given the `head` of a linked list, remove the `n<sup>th</sup>` node from the end of the list and return its head.
 
