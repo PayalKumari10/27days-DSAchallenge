@@ -1,10 +1,10 @@
 ---
-title: "📅Day-17 Striver’s SDE Sheet | Linked List Part 2 | Find the starting point of the Loop of LinkedList, Flattening of a LinkedList"
+title: "📅Day-18 Striver’s SDE Sheet | Linked List Part 2 | Find the starting point of the Loop of LinkedList, Flattening of a LinkedList"
 seoTitle: "Linked List Loops & Flattening Guide"
 seoDescription: "Explore finding the starting point of a linked list loop and flattening a linked list with optimal approaches. Perfect for coding interviews"
 datePublished: Thu Aug 21 2025 10:32:29 GMT+0000 (Coordinated Universal Time)
 cuid: cmel9ivb2001z02k0emv4gnjd
-slug: day-17-strivers-sde-sheet-linked-list-part-2-find-the-starting-point-of-the-loop-of-linkedlist-flattening-of-a-linkedlist
+slug: day-18-strivers-sde-sheet-linked-list-part-2-find-the-starting-point-of-the-loop-of-linkedlist-flattening-of-a-linkedlist
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755764484941/3449de11-5de5-467c-a868-b3794612f0e9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1755772294912/87f830aa-1fea-4001-9e3d-0504d5208286.png
 tags: code, programming-blogs, java, technology, coding, hashnode, dsa, coding-challenge, technical-writing-1, coding-journey, dsainjava, striver-dsa-sheet, striversa2zdsa, payalkumari11, dsawithpayal
