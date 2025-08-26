@@ -177,6 +177,8 @@ robot1.flyBehavior = new NormalFly(); // Now CompanionRobot can fly!
     
 * E-commerce discount strategy
     
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756234038559/16ab515f-8eb9-42a9-ae92-18f056e3849f.png align="center")
+    
 
 ## 📍Key Takeaways
 
