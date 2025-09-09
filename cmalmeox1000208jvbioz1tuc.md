@@ -29,7 +29,7 @@ tags: java, developer, system-design, dsa, techblog, technical-writing-1, lld, d
 
 (Hindi: LLD ka matlab hai, "Low-Level Design." Ye wo process hai jismein multiple DSA ke concepts ka istemal karke poore application ka structure tayar kiya jata hai. Yani, application ke har component ke design aur unke interaction ko detail mein define kiya jata hai.)
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747078210265/245c6400-12cb-46d5-9d83-d4f3654f3bee.png align="center")](https://www.linkedin.com/in/payalkumari10/)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1757420652915/0190f550-7e86-4755-87a8-cb295d286d6d.png align="center")
 
 * ## **💠 A Real-World Example:**
     
@@ -196,7 +196,7 @@ Low-Level Design (LLD) focuses on the detailed design and implementation of indi
 
 > NOTE : - ***<mark>DSA is the brain of an Application , LLD is the skeleton.</mark>***
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747084097297/67fd5f76-3092-439c-bf41-0fddb24b0e43.png align="center")](https://www.linkedin.com/in/payalkumari10/)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1757420660543/855c5034-e06e-4414-a85b-cd9ccea66bf7.png align="center")
 
 ---
 
