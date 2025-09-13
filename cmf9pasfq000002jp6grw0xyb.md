@@ -116,7 +116,7 @@ class Solution {
 
 ### **<mark>Time Complexity:</mark>** O(N)
 
-**<mark>Space Complexity:</mark>** O(N) (extra space for Set)
+### **<mark>Space Complexity:</mark>** O(N) (extra space for Set)
 
 ## 2️⃣ Optimal Approach (Two Pointers)
 
@@ -145,7 +145,7 @@ class Solution {
     
     ### **<mark>Time Complexity:</mark>** O(N)
     
-    **<mark>Space Complexity:</mark>** O(1)
+    ### **<mark>Space Complexity:</mark>** O(1)
     
 
 ---
@@ -217,7 +217,7 @@ class Solution {
 
 ### **<mark>Time Complexity:</mark>** O(N²)
 
-**<mark>Space Complexity:</mark>** O(1)
+### **<mark>Space Complexity:</mark>** O(1)
 
 ## 2️⃣ Optimal Approach
 
