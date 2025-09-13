@@ -51,7 +51,7 @@ for (int i = 0; i < k; i++) {
 
 If all assertions pass, then your solution will be **accepted**.
 
- **Example 1:**
+**Example 1:**
 
 ```plaintext
 Input: nums = [1,1,2]
@@ -116,7 +116,6 @@ class Solution {
 
 ### **<mark>Time Complexity:</mark>** O(N)
 
-###   
 **<mark>Space Complexity:</mark>** O(N) (extra space for Set)
 
 ## 2️⃣ Optimal Approach (Two Pointers)
@@ -146,7 +145,6 @@ class Solution {
     
     ### **<mark>Time Complexity:</mark>** O(N)
     
-    ###   
     **<mark>Space Complexity:</mark>** O(1)
     
 
@@ -219,7 +217,6 @@ class Solution {
 
 ### **<mark>Time Complexity:</mark>** O(N²)
 
-###   
 **<mark>Space Complexity:</mark>** O(1)
 
 ## 2️⃣ Optimal Approach
@@ -250,10 +247,9 @@ class Solution {
 }
 ```
 
-## **<mark>Time Complexity: </mark>** O(N)
+### **<mark>Time Complexity: </mark>** O(N)
 
-##   
-**<mark>Space Complexity:</mark>** O(1)
+### **<mark>Space Complexity:</mark>** O(1)
 
 ---
 
