@@ -38,7 +38,7 @@ Each note handler checks: *"Can I dispense this amount?"* and if yes, it does an
 
 (Hindi: ATM jab ₹3800 deta hai, toh pehle ₹2000 ke note, phir ₹500, phir ₹100 ke note nikalta hai — ek chain ke through.)
 
-![]( align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758022886763/228ffcb2-427c-4c38-b735-890a8b4f273a.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749632837848/9a0d7124-9f3e-4046-af11-87ac80f01596.png align="center")
 
